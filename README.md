@@ -10,7 +10,9 @@ A custom scratch card view featuring smooth touch interactions and dynamic revea
 🎥 [Watch ScratchToWin Demo](https://www.linkedin.com/posts/vivekpatel9871_ios-apple-iphone-activity-7301941871679840257-LxSJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ4jrcBdpk58PuSNBY__Vbdsk_V6YqPYWA)  
 
 3️⃣ CardCarouselView
+
 A sleek, interactive carousel of cards with dynamic scaling effects as you scroll — giving a smooth, immersive UI experience. Inspired by modern onboarding and highlight flows.
+
 ✨ Features custom scaling animation, view alignment scroll behavior, and custom page indicators.
 
 🎥 Watch CardCarouselView Demo
