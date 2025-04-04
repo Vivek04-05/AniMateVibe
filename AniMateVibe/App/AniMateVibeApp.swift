@@ -11,7 +11,8 @@ import SwiftUI
 struct AniMateVibeApp: App {
     var body: some Scene {
         WindowGroup {
-            SwiggySwapPay()
+//            SwiggySwapPay()
+            CardCarouselView()
         }
     }
 }
